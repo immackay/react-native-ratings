@@ -152,6 +152,11 @@ export interface AirbnbRatingProps {
   showRating?: boolean;
 
   /**
+   * Set the color of stars
+   */
+  selectedColor?: string;
+
+  /**
    * Style for star image component
    *
    * Default is true

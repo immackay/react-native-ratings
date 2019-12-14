@@ -6,7 +6,7 @@
   "types": "./src/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Monte9/react-native-ratings.git"
+    "url": "git+ssh://git@github.com/immackay/react-native-ratings.git"
   },
   "keywords": [
     "react-native",
@@ -27,11 +27,12 @@
     "react": "^16.0.0"
   },
   "author": "Monte Thakkar",
+  "maintainers": ["Ian MacKay"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Monte9/react-native-ratings/issues"
+    "url": "https://github.com/immackay/react-native-ratings/issues"
   },
-  "homepage": "https://github.com/Monte9/react-native-ratings#readme",
+  "homepage": "https://github.com/immackay/react-native-ratings#readme",
   "devDependencies": {
     "eslint": "^5.6.1",
     "eslint-plugin-react": "^7.11.1",
